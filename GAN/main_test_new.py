@@ -1,11 +1,3 @@
-# Code for
-# Unsupervised Adversarial Depth Estimation using Cycled Generative Networks
-# Andrea Pilzer, Dan Xu, Mihai Puscas, Elisa Ricci, Nicu Sebe
-#
-# 3DV 2018 Conference, Verona, Italy
-#
-# parts of the code from https://github.com/mrharicot/monodepth
-#
 
 from __future__ import absolute_import, division, print_function
 
